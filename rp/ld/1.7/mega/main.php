@@ -1,3 +1,3 @@
 <?php header('Location:'.
-'https://mega.co.nz/#!YgVByBaY!7ZJHaoVqibNAEQXyLcGob3oJIP_OEvjmRvDMIiUzrWw'
+'https://mega.co.nz/#!ht8S3JwA!Pu8-49eSde7fdUVYf7FJEgcOoLeAl705ShlR-2p_-Yc'
 ) ;
